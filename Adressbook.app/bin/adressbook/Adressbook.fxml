@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.GridPane?>
+
+<GridPane alignment="CENTER" hgap="10.0" vgap="10.0" xmlns:fx="http://javafx.com/fxml">
+  <TableView fx:id="tableView" GridPane.columnIndex="0" GridPane.rowIndex="1">
+    <columns>
+      <TableColumn text="Name" />
+      <TableColumn text="FirstName" />
+      <TableColumn text="Age" />
+      <TableColumn text="Birthday" />
+      <TableColumn text="Email" />
+      <TableColumn text="School" />
+    </columns>
+  </TableView>
+</GridPane>

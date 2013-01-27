@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+	id="Adressbook.app.jemmy.feature"
+	label="Adbook Jemmy JUnit Feature"
+	version="1.0.0.qualifier"
+	provider-name="DCQ"
+	>
+		<description url="http://www.efxclipse.org">
+			TODO FILL WITH CONTENT
+		</description>
+
+		<copyright url="http://www.efxclipse.org">
+			TODO FILL WITH CONTENT
+		</copyright>
+
+		<license url="http://www.efxclipse.org">
+			TODO FILL WITH CONTENT
+		</license>
+
+   		<plugin id="Adressbook.app.jemmy" install-size="0" version="0.0.0" unpack="false" />
+
+
+</feature>
